@@ -3,10 +3,15 @@ If you have issues with our software, please add a issue in the issue tracker!
 
 # Readme
 ──╔═══╦═══╗
+
 ──║╔═╗║╔═╗║
+
 ╔╦╣║─║║╚══╗
+
 ╠╬╣║─║╠══╗║
+
 ║║║╚═╝║╚═╝║
+                                                                                                                                                               
 ╚╩╩═══╩═══╝
 
 COPYRIGHT
